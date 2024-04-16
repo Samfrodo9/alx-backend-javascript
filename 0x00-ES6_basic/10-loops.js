@@ -7,5 +7,3 @@ export default function appendToEachArrayValue(array, appendString) {
   
 	return array;
   }
-
-//appendToEachArrayValue(['appended', 'fixed', 'displayed'], 'correctly-');
