@@ -1,2 +1,3 @@
-# Data Manipulation in ES
-Arrays and manipulation of data in Es
+# 0x03. ES6 Data Manipulation
+
+Working with Arrays and manipulating Data
